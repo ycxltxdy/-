@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">APP名字</string>
+    <string name="app_name">宇智波泉奈</string>
     <string name="channel_id">通知ID</string>
-    <string name="notice_title">这是一个通知</string>
+    <string name="notice_title">疯狗来了</string>
 </resources>
